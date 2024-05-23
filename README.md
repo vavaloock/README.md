@@ -12,5 +12,3 @@
   <a href="https://github.com/addi00000"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
   <a href="https://github.com/addi00000"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
 </p>
-
-<p align="center"><img src="https://count.getloli.com/get/@:addi00000" alt=":addi00000" /></p>
